@@ -1,4 +1,4 @@
-# MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation <br> [[Paper]](https://arxiv.org/abs/1911.11758)
+# Insect collection of Mekong Delta for sustainable agriculture, biodiversity discovery, and ecosystem education
 
 [Yuheng Li](https://github.com/Yuheng-Li),
 [Krishna Kumar Singh](http://krsingh.cs.ucdavis.edu/),
