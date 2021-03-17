@@ -2,8 +2,7 @@
 
 [Thanh-Nghi Doan](https://github.com/dtnghigithub),
 [Chuong V Nguyen](http://krsingh.cs.ucdavis.edu/)<br>
-UC Davis <br>
-In [CVPR, 2020](https://arxiv.org/abs/1911.11758)
+
 
 **1/31/2020 update: Code and models released.** <br>
 
