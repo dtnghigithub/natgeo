@@ -1,7 +1,7 @@
 # Insect collection of Mekong Delta for sustainable agriculture, biodiversity discovery, and ecosystem education
 
 [Thanh-Nghi Doan](https://github.com/dtnghigithub),
-[Chuong V Nguyen](http://krsingh.cs.ucdavis.edu/)<br>
+[Chuong V Nguyen](https://people.csiro.au/N/C/Chuong-Nguyen)<br>
 
 
 **1/31/2020 update: Code and models released.** <br>
