@@ -8,7 +8,7 @@
 
 ##  3D scanner for insect collections
 
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1M7ZqkXMro7J5qAyqVbHQeNtLCOi8dy_O/view?usp=sharing)](https://www.youtube.com/watch?v=w36vnkIbyjs)
+[![IMAGE ALT TEXT HERE](media/IntroImageProject.png)](https://www.youtube.com/watch?v=w36vnkIbyjs)
 
 This is our CVPR2020 presentation video [link](https://www.youtube.com/watch?v=MmFL59X-Xwg) 
 
