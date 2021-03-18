@@ -4,9 +4,9 @@
 [Chuong V Nguyen](https://people.csiro.au/N/C/Chuong-Nguyen)<br>
 
 
-**1/31/2020 update: Code and models released.** <br>
+**03/18/2021 update: Code and models released.** <br>
 
-## Demo Video
+##  3D scanner for insect collections
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w36vnkIbyjs/0.jpg)](https://www.youtube.com/watch?v=w36vnkIbyjs)
 
