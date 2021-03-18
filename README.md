@@ -14,7 +14,8 @@ Insects play a significant role in our ecosystem and are the foundation of our f
 
 These are our 3D insect models in Sketchfab [link](https://sketchfab.com/dtnghiagu/models) 
 
-## Web Demo
+## The three main steps to create a natural-colour 3D model of specimen
+The steps are mounting the insect onto a pin, acquisition of 2D images of the specimen at different poses, then reconstruction of a single 3D model from those multiple images.
 
 For interactive web demo [click here](http://vision1.idav.ucdavis.edu:8005/). This web demo is created by Yang Xue.
 
