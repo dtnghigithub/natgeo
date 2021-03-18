@@ -20,11 +20,11 @@ import os
 # In[9]:
 
 
-def getImagesfromXie(no_of_classes):
+def getImagesfromYourdataset(no_of_classes):
     insect_images = []
     labels = []
     i = 0
-    for insect_dir_path in glob.glob("/content/sample_data/Xie dataset/*"):
+    for insect_dir_path in glob.glob("/path-to-your-dataset/*"):
         insect_label = insect_dir_path.split("/")[-1]
         if no_of_classes == i:
             break
@@ -55,11 +55,7 @@ def getImagesfromXie(no_of_classes):
 # In[10]:
 
 
-insects_5_classes, labels_5_classes = getImagesfromXie(no_of_classes=5)
-insects_10_classes, labels_10_classes = getImagesfromXie(no_of_classes=10)
-insects_16_classes, labels_16_classes = getImagesfromXie(no_of_classes=16)
-insects_24_classes, labels_24_classes = getImagesfromXie(no_of_classes=24)
-
+insects_2_classes, labels_2_classes = getImagesfromYourdataset(no_of_classes=2)
 
 # In[12]:
 
@@ -160,54 +156,13 @@ def getKFoldCV(Images, Labels, numClasses):
     return (accuracy_model)    
 
 
-# #  9-Fold 5 Classes 
+# #  9-Fold 2 Classes 
 
 # In[ ]:
 
-
 import time
 start_time= time.time()
-accurary_5Classes = getKFoldCV(insects_5_classes, labels_5_classes, 5)
+accurary_2Classes = getKFoldCV(insects_2_classes, labels_2_classes, 2)
 end_time=time.time()
 print(accurary_5Classes)
 print("Total time taken {}".format(end_time-start_time)) 
-
-
-# # 9-Fold 10 Classes 
-
-# In[ ]:
-
-
-import time
-start_time= time.time()
-accurary_10Classes = getKFoldCV(insects_10_classes, labels_10_classes, 10)
-end_time=time.time()
-print(accurary_10Classes)
-print("Total time taken {}".format(end_time-start_time)) 
-
-
-# # 9-Fold 16 Classes 
-
-# In[ ]:
-
-
-import time
-start_time= time.time()
-accurary_16Classes = getKFoldCV(insects_16_classes, labels_16_classes, 16)
-end_time=time.time()
-print(accurary_16Classes)
-print("Total time taken {}".format(end_time-start_time)) 
-
-
-# # 9-Fold 24 Classes 
-
-# In[ ]:
-
-
-import time
-start_time= time.time()
-accurary_24Classes = getKFoldCV(insects_24_classes, labels_24_classes, 24)
-end_time=time.time()
-print(accurary_24Classes)
-print("Total time taken {}".format(end_time-start_time)) 
-
