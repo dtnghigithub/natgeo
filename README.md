@@ -40,7 +40,7 @@ Download the detection dataset INSECT10 (396 MB) from this [link](https://drive.
 
 ### Downloading pretrained models
 
-Pretrained models for CUB, Dogs and Cars are available at this [link](https://drive.google.com/drive/folders/1c4NtKyccBNDuh_vqB-KlzZpRv9cQxEI7?usp=sharing). Download and extract them in the `models` directory.
+Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models/model_crop_2_classes.h5.h5). 
 
 
 ## Evaluating the model
