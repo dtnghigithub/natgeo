@@ -18,7 +18,8 @@ These are our 3D insect models in Sketchfab [link](https://sketchfab.com/dtnghia
 The steps are mounting the insect onto a pin, acquisition of 2D images of the specimen at different poses, then reconstruction of a single 3D model from those multiple images.
 ![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps.jpg)
 
-## Insect classification and detection
+## Insect classification and detection datasets
+Insects play an important role in sustainable agricultural development. On the earth there are over 1 million insect species, of which, only 500 species are specialized in destroying crops and fruit trees, the rest are useful insects, they kill harmful insects, protect crops. Accurate identification of beneficial insects automatically helps minimize the use of pesticides, production costs, environmental pollution, and ensure ecological balance. However, the current image database of important insects in Vietnam for identification has not been systematically and large enough. This limits the development of advanced machine learning algorithms for entomology. In this paper, we present the construction of image large dataset of important insect species affecting agricultural production. Specifically, this dataset contains more than 29,614 images of 204 different insects. We have done the experiments with several state-of-the-art identification algorithms on this dataset. Experimental results show that this dataset brings many challenges for the development of identification algorithms for insects, especially small insects, diverse and complex structures.
 
 For interactive web demo [click here](http://vision1.idav.ucdavis.edu:8005/). This web demo is created by Yang Xue.
 
