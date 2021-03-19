@@ -34,7 +34,7 @@ git clone https://github.com/dtnghigithub/natgeo_insect.git
 ```
 ### Setting up the dataset
 
-Download the classification dataset INSECT204 (4 GB) ( from this [link](https://drive.google.com/file/d/1b8ZSGedubZbV2zLmpR2nzjraW-49p0Z6/view?usp=sharing). 
+Download the classification dataset INSECT204 (4 GB) from this [link](https://drive.google.com/file/d/1b8ZSGedubZbV2zLmpR2nzjraW-49p0Z6/view?usp=sharing). 
 
 Download the detection dataset INSECT10 (396 MB) from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
 
