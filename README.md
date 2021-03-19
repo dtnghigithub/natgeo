@@ -40,7 +40,7 @@ Download the detection dataset INSECT10 (396 MB) from this [link](https://drive.
 
 ### Downloading pretrained models
 
-Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models/model_crop_2_classes.h5.h5). 
+Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models). 
 
 
 ## Evaluating the model
