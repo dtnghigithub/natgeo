@@ -21,8 +21,6 @@ The steps are mounting the insect onto a pin, acquisition of 2D images of the sp
 ## Insect classification and detection datasets
 Insects play an important role in sustainable agricultural development. On the earth there are over 1 million insect species, of which, only 500 species are specialized in destroying crops and fruit trees, the rest are useful insects, they kill harmful insects, protect crops. Accurate identification of beneficial insects automatically helps minimize the use of pesticides, production costs, environmental pollution, and ensure ecological balance. However, the current image database of important insects in Vietnam for identification has not been systematically and large enough. This limits the development of advanced machine learning algorithms for entomology. In this paper, we present the construction of image large dataset of important insect species affecting agricultural production. Specifically, this dataset contains more than 29,614 images of 204 different insects. We have done the experiments with several state-of-the-art classification and detection algorithms on this dataset. Experimental results show that this dataset brings many challenges for the development of identification algorithms for insects, especially small insects, diverse and complex structures.
 
-For interactive web demo [click here](http://vision1.idav.ucdavis.edu:8005/). This web demo is created by Yang Xue.
-
 ## Requirements
 - Linux
 - Python 3.7
@@ -32,12 +30,13 @@ For interactive web demo [click here](http://vision1.idav.ucdavis.edu:8005/). Th
 ## Getting started
 ### Clone the repository
 ```bash
-git clone https://github.com/Yuheng-Li/MixNMatch.git
-cd MixNMatch
+git clone https://github.com/dtnghigithub/natgeo_insect.git
 ```
-### Setting up the data
+### Setting up the dataset
 
-Download the formatted CUB data from this [link](https://drive.google.com/file/d/1ardy8L7Cb-Vn1ynQigaXpX_JHl0dhh2M/view?usp=sharing) and extract it inside the `data` directory
+Download the classification dataset from this [link](https://drive.google.com/file/d/1b8ZSGedubZbV2zLmpR2nzjraW-49p0Z6/view?usp=sharing).
+
+Download the detection dataset from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
 
 ### Downloading pretrained models
 
