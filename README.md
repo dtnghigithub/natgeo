@@ -44,11 +44,17 @@ Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from t
 Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models). 
 
 
-## Evaluating the model
+## Evaluating the classification model
 In `code`
 - Run `python eval.py --z path_to_pose_source_images --b path_to_bg_source_images --p path_to_shape_source_images --c path_to_color_source_images --out path_to_ourput --mode code_or_feature --models path_to_pretrained_models`
 - For example `python eval.py --z pose/pose-1.png --b background/background-1.png --p shape/shape-1.png --c color/color.png --mode code --models ../models  --out ./code-1.png`
   - **NOTE**:(1) in feature mode pose source images will be ignored; (2) Generator, Encoder and Feature_extractor in models folder should be named as G.pth, E.pth and EX.pth  
+  
+## Demo of Insect Object Counter Custom Function in Action!
+
+## Downloading Official Pre-trained Weights
+YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-pestdetection_last.weights in 
+
 
 ## Training your own model
 In `code/config.py`:
