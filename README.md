@@ -71,7 +71,7 @@ In `code/config.py`:
 
 ## Results
 
-### 1. Extracting all factors from differnet real images to synthesize a new image
+### 1. The outputted image(s) showing the detections saved within the 'data' folder.
 <img src='yolov4_insectdetection/darknet/data/predictions-insect.jpg' align="middle" width=1000>
 <br>
 
