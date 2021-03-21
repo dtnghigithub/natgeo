@@ -76,7 +76,7 @@ In `code/config.py`:
 
 ### 2. The output video(s) showing the detections here 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ID/maxresdefault.jpg)](https://youtu.be/ZoyBXzHBkWY)
+[![IMAGE ALT TEXT HERE](media/ThumbnailMacroInsect.jpg)](https://youtu.be/ZoyBXzHBkWY)
 
 
 ### 3. Manipulating real images by varying a single factor
