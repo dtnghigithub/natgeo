@@ -74,9 +74,8 @@ In `code/config.py`:
 <img src='yolov4_insectdetection/darknet/data/predictions-insect.jpg' align="middle" width=1000>
 <br>
 
-### 2. Comparison between the feature and code mode
-<img src='files/main_result2.png' align="middle" width=1000>
-<br>
+### 2. The output video(s) showing the detections here 
+[![IMAGE ALT TEXT HERE](media/IntroImageProject.png)](https://youtu.be/0nhzVDqnZm4)
 
 ### 3. Manipulating real images by varying a single factor
 <img src='files/bird_vary.png' align="middle" width=1000>
