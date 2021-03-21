@@ -39,11 +39,9 @@ Download the classification dataset INSECT204 (4 GB), 204 classes, 29,614 images
 
 Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
 
-### Downloading pretrained models
+### Downloading pretrained classification models
 
 Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models). 
-
-Pretrained models for insect detection is available at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
 
 ## Evaluating the classification model
 In `code`
@@ -54,7 +52,7 @@ In `code`
 ## Demo of Insect Object Counter Custom Function in Action!
 
 ## Downloading Official Pre-trained Weights
-YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-pestdetection_last.weights in 
+YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-insectdetection_last.weights at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
 
 
 ## Training your own model
