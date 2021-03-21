@@ -43,7 +43,7 @@ Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from t
 
 Pretrained models for Achatina_fulica, Agrotis_ypslison are available at this [link](classification/models). 
 
-Pretrained models for insect detection at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
+Pretrained models for insect detection is available at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
 
 ## Evaluating the classification model
 In `code`
