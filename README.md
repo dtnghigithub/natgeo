@@ -50,7 +50,7 @@ In `code`
   - **NOTE**:(1) in feature mode pose source images will be ignored; (2) Generator, Encoder and Feature_extractor in models folder should be named as G.pth, E.pth and EX.pth  
   
 ## Demo of Insect Object Counter Custom Function in Action!
-<img src='media/predictions-insect.jpg' align="middle" width=1000>
+<img src='media/predictions-insect-counting.jpg' align="middle" width=1000>
 <br>
 
 ## Downloading Official Pre-trained Weights
