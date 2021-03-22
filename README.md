@@ -50,6 +50,8 @@ In `code`
   - **NOTE**:(1) in feature mode pose source images will be ignored; (2) Generator, Encoder and Feature_extractor in models folder should be named as G.pth, E.pth and EX.pth  
   
 ## Demo of Insect Object Counter Custom Function in Action!
+<img src='media/predictions-insect.jpg' align="middle" width=1000>
+<br>
 
 ## Downloading Official Pre-trained Weights
 YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-insectdetection_last.weights at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
