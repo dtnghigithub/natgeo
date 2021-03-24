@@ -53,7 +53,7 @@ In `code`
 <img src='media/animal-hero-leafcutter-ants_detection1.png' align="middle" width=1000>
 <br>
 
-Demo on YouTube <br>
+### Demo on YouTube 
 [![IMAGE ALT TEXT HERE](media/insect-counting-intro.jpg)](https://youtu.be/Po0q_YQ-3EY)
 
 ## Downloading Official Pre-trained Weights
