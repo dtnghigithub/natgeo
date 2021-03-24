@@ -53,7 +53,7 @@ In `code`
 <img src='media/animal-hero-leafcutter-ants_detection1.png' align="middle" width=1000>
 <br>
 
-[![IMAGE ALT TEXT HERE](media/ThumbnailMacroInsect.jpg)](https://youtu.be/Po0q_YQ-3EY)
+[![IMAGE ALT TEXT HERE](media/insect-counting-intro.jpg)](https://youtu.be/Po0q_YQ-3EY)
 
 ## Downloading Official Pre-trained Weights
 YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-insectdetection_last.weights at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
