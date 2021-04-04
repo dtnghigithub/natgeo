@@ -33,11 +33,13 @@ Insects play an important role in sustainable agricultural development. On the e
 ```bash
 git clone https://github.com/dtnghigithub/natgeo_insect.git
 ```
-### Setting up the dataset
+### Download the insect dataset
 
 Download the classification dataset INSECT204 (4 GB), 204 classes, 29,614 images from this [link](https://drive.google.com/file/d/1b8ZSGedubZbV2zLmpR2nzjraW-49p0Z6/view?usp=sharing). 
 
 Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
+
+All the annotations, up-to-date news, box visualization tools, etc. are available on the Open Insect Images website: http://luan-van.herokuapp.com/
 
 ### Downloading pretrained classification models
 
