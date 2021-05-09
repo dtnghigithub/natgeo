@@ -64,17 +64,13 @@ In `code`
 YOLOv4-pestdetection comes pre-trained and able to detect 22 classes. For easy demo purposes you can use the pre-trained weights yolov4-insectdetection_last.weights at this link https://drive.google.com/file/d/1QDaHKsejJS6XpDBfcNxPMfl_zDITF8x5/view?usp=sharing
 
 ## Training your own model
-In `code/config.py`:
-- Specify the dataset location in `DATA_DIR`.
-  - **NOTE**: If you wish to train this on your own (different) dataset, please make sure it is formatted in a way similar to the CUB dataset that we've provided.
-- Specify the number of super and fine-grained categories that you wish for FineGAN to discover, in `SUPER_CATEGORIES` and `FINE_GRAINED_CATEGORIES`.
-- For the first stage training run `python train_first_stage.py output_name`
-- For the second stage training run `python train_second_stage.py output_name path_to_pretrained_G path_to_pretrained_E`
-  - **NOTE**:  output will be in `output/output_name`
-  - **NOTE**:  `path_to_pretrained_G` will be  `output/output_name/Model/G_0.pth`
-  - **NOTE**:  `path_to_pretrained_E` will be  `output/output_name/Model/E_0.pth`
-- For example `python train_second_stage.py Second_stage ../output/output_name/Model/G_0.pth ../output/output_name/Model/E_0.pth`
-
+In `pyimagesearch/config.py`:
+- Specify the dataset location in `ORIG_INPUT_DATASET`, initialize the path to the *original* input directory of images ORIG_INPUT_DATASET = "INSECT10"
+- Initialize the base path to the *new* directory that will contain our images after computing the training and testing split, BASE_PATH = "dataset"
+- Define the names of the training, testing, and validation directories: TRAIN = "training", TEST = "evaluation", VAL = "validation"
+- initialize the list of class label names: CLASSES = ["Acalymma_vittatum", "Achatina_fulica", "Alticini", "Anasa_tristis", "Asparagus_beetles", "Aulacophora_similis", "Cerotoma_trifurcata", "Dermaptera", "Leptinotarsa_decemlineata", "Mantodea"]
+- Set the batch size: BATCH_SIZE = 32
+- For training run `python train_insect.py`
 
 ## Results
 
