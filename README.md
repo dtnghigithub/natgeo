@@ -28,6 +28,7 @@ Due to lack of knowledge of plant diseases and unavailability of expertise, farm
 - Linux
 - Python 3.7
 - Pytorch 1.3.1
+- TensorFlow, Keras
 - NVIDIA GPU + CUDA CuDNN
 
 ## Getting started
@@ -85,31 +86,14 @@ In `code/config.py`:
 
 [![IMAGE ALT TEXT HERE](media/ThumbnailMacroInsect.jpg)](https://youtu.be/ZoyBXzHBkWY)
 
-
-### 3. Manipulating real images by varying a single factor
-<img src='files/bird_vary.png' align="middle" width=1000>
-<br>
-
-### 4. Inferring style from unseen data
-Cartoon -> image             |  Sketch -> image
-:-------------------------:|:-------------------------:
-<img src='files/cartoon2img.png' align="middle" width=450>  |  <img src='files/sketch2img.png' align="middle" width=450>
-<br>
-
-### 5. Converting a reference image according to a reference video
-<p align="center">
-<img src='files/img2gif2.gif' align="middle" width=350>
-</p>
-<br>
-
 ## Citation
 If you find this useful in your research, consider citing our work:
 ```
-@inproceedings{li-cvpr2020,
-  title = {MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation},
-  author = {Yuheng Li and Krishna Kumar Singh and Utkarsh Ojha and Yong Jae Lee},
-  booktitle = {CVPR},
-  year = {2020}
+@inproceedings{nghi-fair2021,
+  title = {Insect image classification with Power Mean SVM},
+  author = {Thanh-Nghi Doan and Cao-The-Cuong Huynh and Quoc-Khang Nguyen},
+  booktitle = {FAIR},
+  year = {2021}
 }
 ```
 
