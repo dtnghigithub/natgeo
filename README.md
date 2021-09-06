@@ -75,7 +75,7 @@ In `pyimagesearch/config.py`:
 ## Results
 
 ### 1. The outputted image(s) showing the detections saved within the 'data' folder.
-<img src='yolov4_insectdetection/darknet/data/predictions-insect.jpg' align="middle" width=1000>
+<img src='media/media_images_Validation_49_5.jpg' align="middle" width=1000>
 <br>
 
 ### 2. The output video(s) showing the detections here 
