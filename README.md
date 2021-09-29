@@ -85,9 +85,16 @@ In `pyimagesearch/config.py`:
 ## Citation
 If you find this useful in your research, consider citing our work:
 ```
+@inproceedings{nghi-vnict2021,
+  title = {Building a new 3D insect scanner},
+  author = {Thanh-Nghi Doan, Chuong V. Nguyen},
+  booktitle = {VNICT},
+  year = {2021}
+}
+
 @inproceedings{nghi-fair2021,
-  title = {Insect image classification with Power Mean SVM},
-  author = {Thanh-Nghi Doan and Cao-The-Cuong Huynh and Quoc-Khang Nguyen},
+  title = {Insect image classification with EfficientNet and Power Mean SVM},
+  author = {Thanh-Nghi Doan},
   booktitle = {FAIR},
   year = {2021}
 }
