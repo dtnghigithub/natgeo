@@ -2,7 +2,7 @@
 
 [Thanh-Nghi Doan](https://github.com/dtnghigithub),
 [Chuong V Nguyen](https://people.csiro.au/N/C/Chuong-Nguyen)<br>
-
+[Viet Phuong L] (https://people.csiro.au/N/C/Chuong-Nguyen)<br>
 
 **03/18/2021 update: Code and models released.** <br>
 
