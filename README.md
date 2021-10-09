@@ -20,7 +20,7 @@ insects), this step marks the transition from the physical to the digital domain
 ![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps.jpg)
 
 ## FieldWorks
-[![IMAGE ALT TEXT HERE](media/fieldworks.png]
+[![IMAGE ALT TEXT HERE](media/fieldworks.png)]
 
 
 ## Insect classification and detection datasets
