@@ -31,20 +31,14 @@ Due to lack of knowledge of plant diseases and unavailability of expertise, farm
 
 ![IMAGE ALT TEXT HERE](media/CAM.png)
 
-<table>
-<thead>
-<tr>
-<th align="center">Weights and Biases</th>
-<th align="center">Roboflow - <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> NEW</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Automatically track and visualize all your YOLOv5 training runs in the cloud with <a href="https://wandb.ai/site?utm_campaign=repo_yolo_readme" rel="nofollow">Weights &amp; Biases</a></td>
-<td align="center">Label and automatically export your custom datasets directly to YOLOv5 for training with <a href="https://roboflow.com/?ref=ultralytics" rel="nofollow">Roboflow</a></td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+    <a href="https://wandb.ai/site?utm_campaign=repo_yolo_readme" rel="nofollow">
+        <img src="media/3D_Scanning_Model_Steps.jp" width="49%" style="max-width: 100%;">
+    </a>
+    <a href="https://roboflow.com/?ref=ultralytics" rel="nofollow">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-roboflow-long.png" width="49%" style="max-width: 100%;">
+    </a>
+</div>
 
 ## Requirements
 - Linux
