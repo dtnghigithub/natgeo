@@ -33,7 +33,7 @@ Due to lack of knowledge of plant diseases and unavailability of expertise, farm
 
 <div align="center">
     <a href="https://wandb.ai/site?utm_campaign=repo_yolo_readme" rel="nofollow">
-        <img src="media/3D_Scanning_Model_Steps.jp" width="49%" style="max-width: 100%;">
+        <img src="media/3D_Scanning_Model_Steps.jpg" width="49%" style="max-width: 100%;">
     </a>
     <a href="https://roboflow.com/?ref=ultralytics" rel="nofollow">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-roboflow-long.png" width="49%" style="max-width: 100%;">
