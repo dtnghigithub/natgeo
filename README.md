@@ -19,6 +19,10 @@ The steps are (1) mounting the physical insect onto a pin; (2) acquisition of 2D
 insects), this step marks the transition from the physical to the digital domain; then (3) reconstruction of a single 3D model from those multiple images.
 ![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps.jpg)
 
+## FieldWorks
+[![IMAGE ALT TEXT HERE](media/IntroImageProject.png)](https://youtu.be/Po0q_YQ-3EY)
+
+
 ## Insect classification and detection datasets
 Insects play an important role in sustainable agricultural development. On the earth there are over 1 million insect species, of which, only 500 species are specialized in destroying crops and fruit trees, the rest are useful insects, they kill harmful insects, protect crops. Accurate identification of beneficial insects automatically helps minimize the use of pesticides, production costs, environmental pollution, and ensure ecological balance. However, the current image database of important insects in Vietnam for identification has not been systematically and large enough. This limits the development of advanced machine learning algorithms for entomology. In this project, we present the construction of image large dataset of important insect species affecting agricultural production. Specifically, this dataset contains more than annotated 29,614 images in 204 different insect specimens. We have evaluated several state-of-the-art classification and detection algorithms on this dataset. Experimental results show that this dataset brings many challenges for the development of identification algorithms for insects, especially small insects, diverse and complex structures. 
 
