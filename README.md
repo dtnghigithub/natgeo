@@ -19,6 +19,11 @@ The steps are (1) mounting the physical insect onto a pin; (2) acquisition of 2D
 insects), this step marks the transition from the physical to the digital domain; then (3) reconstruction of a single 3D model from those multiple images.
 ![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps.jpg)
 
+## The comparision of the quality of 3D virtual insect models
+The model solid, confidence, and textured showed good quality of the 3D model reproduced by our method.
+![IMAGE ALT TEXT HERE](EDOF_SOLID_CONFIDENCE_TEXTURE.png)
+
+
 ## FieldWorks
 We have collected insect samples from the Mekong Delta on-site suction traps and light traps monitoring for pest species currently around An Giang province. We also trained the students of the task of the sorting of samples sent from around the An Giang to monitor these pests. Once in the field, the student group traped and collect the bees, wasps, beetles, ants, lacewings, and stinkbugs whose brief but busy lives may influence how we create a sustainable future for bioenergy.
 ![IMAGE ALT TEXT HERE](media/fieldworks.png)
