@@ -21,7 +21,7 @@ insects), this step marks the transition from the physical to the digital domain
 
 ## The comparision of the quality of 3D virtual insect models
 The model solid, confidence, and textured showed good quality of the 3D model reproduced by our method.
-![IMAGE ALT TEXT HERE](EDOF_SOLID_CONFIDENCE_TEXTURE.png)
+![IMAGE ALT TEXT HERE](media/EDOF_SOLID_CONFIDENCE_TEXTURE.png)
 
 
 ## FieldWorks
