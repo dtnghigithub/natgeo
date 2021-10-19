@@ -14,9 +14,8 @@ Insects play a significant role in our ecosystem and are the foundation of our f
 
 These are our 3D insect models in Sketchfab [link](https://sketchfab.com/dtnghiagu/models) 
 
-## The three main steps to create a natural-colour 3D model of specimen
-The steps are (1) mounting the physical insect onto a pin; (2) acquisition of 2D images of the specimen at different orientations (and focal depths for small
-insects), this step marks the transition from the physical to the digital domain; then (3) reconstruction of a single 3D model from those multiple images.
+## Overview of the 3D insect modeling process
+In this project, we present the construction of a new 3D insect modeling system, which overcomes some limitations of previous studies, which can be applied to capture a large number of insect specimens in entomology laboratory. Our contributions include: 1) Using a mirrorless camera instead of a traditional DSLR camera, thus reducing noise and vibration when taking pictures, helping to speed up the process of taking pictures, reducing errors when taking pictures, the details of the insect's structure are sharp, so the quality of the photos has been greatly improved; (2) Building 3D models using the Structure from Motion (SfM) method has eliminated the patterned mat device, eliminating the need to use lasers to position the specimen. In addition, model quality does not depend on whether the specimen is mounted horizontally or vertically, so there is no need to re-pin the specimen as (Nguyen et al., 2014), avoid damaging insect specimens; (3) Simple design and manufacturing with reasonable cost 129 million VND (Table 2), less than half of (Nguyen et al., 2014), (Ströbel et al., 2018); (4) The entire imaging process is automated, and the capture time is reasonable, so digitization can be applied to a large number of insect specimens. Our 3D insect modeling process is described as the following figure:
 ![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps_En_v1.png)
 
 ## The comparision of the quality of 3D virtual insect models
