@@ -59,7 +59,7 @@ git clone https://github.com/dtnghigithub/natgeo_insect.git
 ```
 ### Download the insect dataset
 
-Download the classification dataset INSECT204 (4 GB), 204 classes, 29,614 images from this [link](https://drive.google.com/file/d/1b8ZSGedubZbV2zLmpR2nzjraW-49p0Z6/view?usp=sharing). 
+Download the classification dataset INSECT204 (4 GB), 204 classes, 29,614 images from this [link](https://drive.google.com/file/d/1vqEj-N2jbtcAkneX7L3jsa0bq6rVpVyv/view?usp=sharing). 
 
 Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
 
