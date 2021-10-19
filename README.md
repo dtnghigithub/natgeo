@@ -17,7 +17,7 @@ These are our 3D insect models in Sketchfab [link](https://sketchfab.com/dtnghia
 ## The three main steps to create a natural-colour 3D model of specimen
 The steps are (1) mounting the physical insect onto a pin; (2) acquisition of 2D images of the specimen at different orientations (and focal depths for small
 insects), this step marks the transition from the physical to the digital domain; then (3) reconstruction of a single 3D model from those multiple images.
-![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps.jpg)
+![IMAGE ALT TEXT HERE](media/3D_Scanning_Model_Steps_En_v1.png)
 
 ## The comparision of the quality of 3D virtual insect models
 The model solid, confidence, and textured showed good quality of the 3D model reproduced by our method.
