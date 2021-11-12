@@ -63,7 +63,7 @@ Download the classification dataset INSECT204 (4 GB), 204 classes, 29,614 images
 
 Download the detection dataset INSECT10 (396 MB), 10 classes, 2706 images from this [link](https://drive.google.com/file/d/12WWAsUjo94wy-kJndDZyjAuuwO6aD_9z/view?usp=sharing). 
 
-All the annotations, up-to-date news, box visualization tools, etc. are available on the Open Insect Images website: http://luan-van.herokuapp.com/
+All the annotations, up-to-date news, box visualization tools, etc. are available on the Open Insect Images website: http://insectdbagu.tk/
 
 ### Downloading pretrained classification models
 
